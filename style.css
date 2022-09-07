@@ -45,16 +45,17 @@
 
 }
 
-.botao2{
+.botao1{
     text-decoration: none;
-    justify-content: center;
-    width: 8%;
+    color: rgb(34, 34, 34);
+    padding: 1.4rem 3.1rem;
+    width: 27%;
     position: fixed;
     display: flex;
-    left: 478px;
-    bottom: 102px;
-    height: 35px;
-    font-size: 10;
+    left: 90px;
+    bottom: 420px;
+    height: 93px;
+    font-size: 35px;
     border: none;
     border-radius: 1000px;
     background-image:
@@ -62,6 +63,39 @@
     #07A4D8 18%, #02D8CE 45%, #00EBC2 85%)
 
 }
+
+.botao2{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+    padding: .5rem 1.5rem;
+    width: 6%;
+    position: fixed;
+    display: flex;
+    left: 478px;
+    bottom: 102px;
+    height: 35px;
+    font-size: 13px;
+    border: none;
+    border-radius: 1000px;
+    background-image:
+    -webkit-linear-gradient(45deg,
+    #07A4D8 18%, #02D8CE 45%, #00EBC2 85%)
+
+}
+
+.nike{
+    width: 2%;
+    height: 2vh;
+    position: fixed;
+    bottom: 457px;
+    left: 535px;
+    background-image: url(nike2.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    
+}
+
 
 
 
