@@ -51,15 +51,15 @@
     width: 8%;
     position: fixed;
     display: flex;
-    left: 399px;
-    bottom: 97px;
-    height: 45px;
+    left: 478px;
+    bottom: 102px;
+    height: 35px;
     font-size: 10;
     border: none;
     border-radius: 1000px;
     background-image:
     -webkit-linear-gradient(45deg,
-    #07A4D8 0%, #02D8CE 12%, #00EBC2 20%)
+    #07A4D8 18%, #02D8CE 45%, #00EBC2 85%)
 
 }
 
